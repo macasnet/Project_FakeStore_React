@@ -1,1 +1,1 @@
-https://mahmutcan-fakestore.netlify.app/ - Project Web Site
+https://project-fake-store-react.vercel.app/products - Project Web Site
